@@ -240,12 +240,12 @@ article img	{
 
 
 
-a[href*=dvp4-project-template] {
+a[href*=wd4-project-template] {
 	display: inline-block;
 	padding-left: 4rem;
 	background: #ff9900;
 }
-a[href*=vp4-project-template]::before {
+a[href*=wd4-project-template]::before {
 	content: "";
 	position: absolute; top: 1.25rem; left: 1rem;
 	display: block;
